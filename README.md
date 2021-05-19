@@ -6,7 +6,7 @@ I'm a passionate Cloud Database Consultant started my career as a Database admin
 
 Skills: PostreSQL / MongoDB / Cassandra / Redis / SQL Server
 
-- 🌱 I’m currently learning Devops automation 
+- 🌱 I’m currently learning Devops automation for better production deployment 
 - 📫 How to reach me: meetjerwin@gmail.com 
 
 
