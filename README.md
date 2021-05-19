@@ -1,4 +1,10 @@
 ### Hi there 👋
+
+I'm a passionate Cloud Database Consultant started my career as a Database administrator. Have more than 7 plus years of experience in working many databases including SQL & NoSQL. I primality work now on PostgreSQL,MongoDB and Cassandra. But also have worked earlier on databases such as SQL Server,Couchbase,Redis etc.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerwinRoy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
