@@ -1,4 +1,4 @@
-![Cloud Database Consultant](https://user-images.githubusercontent.com/5230815/118817902-5ba2be80-b8d1-11eb-8e65-dbe6576f4086.png)
+![Cloud Database Consultant](https://user-images.githubusercontent.com/5230815/118826548-344fef80-b8d9-11eb-86d6-700170f44e12.gif)
 
 ### Hello there :handshake:, I am Jerwin Roy
 
@@ -25,8 +25,7 @@ I'm a passionate Cloud Database Consultant started my career as a Database admin
 
 ### Reach me here 
 
-- 📫 : meetjerwin@gmail.com 
+[<img src='https://user-images.githubusercontent.com/5230815/118827452-028b5880-b8da-11eb-819f-e5048ffea202.png' alt='gmail' height='35'>](meetjerwin@gmail.com)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jerwinroy//)       [<img src='https://user-images.githubusercontent.com/5230815/118827324-e4255d00-b8d9-11eb-9875-7a9eb86f2279.png' alt='github' height='35'>](https://github.com/https://github.com/https://github.com/JerwinRoy)  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/JerwinRoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jerwinroy//)  
 
