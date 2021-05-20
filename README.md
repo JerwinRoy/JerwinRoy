@@ -19,7 +19,7 @@ I'm a passionate Cloud Database Consultant started my career as a Database admin
 * :hammer_and_wrench: INVESTIGATE ISSUES 
 * :triangular_flag_on_post: PERFORMANCE CHECK 
 * :dart: IMPLEMENT SOLUTIONS
-* :robot: AUTOMATE
+* :robot: AUTOMATION
 * :medal_military: EXPERT TUNING 
 * :moneybag: COST OPTIMISATION
 
