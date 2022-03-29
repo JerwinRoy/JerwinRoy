@@ -17,11 +17,12 @@ I'm a passionate Cloud Database Consultant started my career as a Database admin
 * :hourglass_flowing_sand: MONITORING 
 * :hammer_and_wrench: TROUBLE SHOOTING 
 * :triangular_flag_on_post: PERFORMANCE TUNING 
-* :dart: IMPLEMENT SOLUTIONS
 * :robot: AUTOMATION/ SCRIPTING
-* :shield: CAPACITY PLANNING
-* :medal_military: BACKUP/RECOVERY PLANNING  
+* :shield: BACKUP/RECOVERY PLANNING 
+* :medal_military:  CAPACITY PLANNING
 * :moneybag: COST OPTIMISATION
+* :dart: IMPLEMENTING SOLUTIONS
+
 
 ### Reach me
 
